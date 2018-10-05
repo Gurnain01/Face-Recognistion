@@ -19,10 +19,10 @@ This is the last module of our program, in this phase our program starts interac
 After recognising any particular person our program also checks for any record of that person which are stored in the folder Crime_Record, if it matches a person with the same id as in the records, it will send the record of that person to any particular mail id which user has provided.
 
 ## Prerequisite
-OpenCv
-Python3
-Numpy
-Pillow
+1. OpenCv
+2. Python3
+3. Numpy
+4. Pillow
 ## Recogniser Used
 We have used :
 
